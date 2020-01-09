@@ -1,0 +1,18 @@
+footer {
+    background-color: #0081b9;
+    color: white;
+    border: 5px solid black;
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+}
+
+.main-details_title {
+    color: #0081b9;
+    text-decoration: underline;
+}
+
+section + section {
+    border-top: 3px solid black;
+    padding: 8px 0 8px 0;
+}
